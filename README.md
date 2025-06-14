@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet. A swe from London
+</h2>
+
+## 🙋‍♂️ About Me
+
+- [portfolio](https://delcodes.vercel.app)
+- 📫 How to reach me: [email](mailto:delafiado@gmail.com)
+- I’m currently learning go
