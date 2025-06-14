@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **blckfrost/blckfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet. A swe from London
-</h2>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Elvis. A Software Developer</h2>
 
 ## 🙋‍♂️ About Me
 
