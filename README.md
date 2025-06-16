@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - [portfolio](https://delcodes.vercel.app)
 - 📫 How to reach me: [email](mailto:delafiado@gmail.com)
 - I’m currently learning go
+
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=blckfrost)
