@@ -1,25 +1,23 @@
-<!--
-**blckfrost/blckfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Elvis
+**Software Developer**
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Elvis. A Software Developer</h2>
+- 🔭 **Currently building:** Modern web applications with React & Next.js
+- 🌱 **Learning:** Go programming language
+- 💼 **Portfolio:** [delcodes.vercel.app](https://delcodes.vercel.app)
+- 📫 **Let's connect:** [delafiado@gmail.com](mailto:delafiado@gmail.com)
 
-## 🙋‍♂️ About Me
+## 🛠️ Tech Stack
 
-- [portfolio](https://delcodes.vercel.app)
-- 📫 How to reach me: [email](mailto:delafiado@gmail.com)
-- I’m currently learning go
+### Programming languages
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,bash,html,css,python&theme=dark)](https://skillicons.dev)
 
+### Framework and libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=blckfrost)
+### Database & Storage
+[![Database Skills](https://skillicons.dev/icons?i=postgres,supabase&theme=dark)](https://skillicons.dev)
+
+### Tools & Environment
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,neovim,vscode&theme=dark)](https://skillicons.dev)
