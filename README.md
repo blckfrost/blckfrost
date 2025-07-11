@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,bash,html,css,python&theme=dark)](https://skillicons.dev)
 
 #### Framework and libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
 
 #### Database & Storage
 [![Database Skills](https://skillicons.dev/icons?i=postgres,supabase&theme=dark)](https://skillicons.dev)
