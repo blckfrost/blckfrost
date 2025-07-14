@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
 
 #### Database & Storage
-[![Database Skills](https://skillicons.dev/icons?i=postgres,supabase&theme=dark)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark)](https://skillicons.dev)
 
 #### Tools & Environment
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,neovim,vscode&theme=dark)](https://skillicons.dev)
